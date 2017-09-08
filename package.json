@@ -1,0 +1,19 @@
+{
+  "name": "handon",
+  "description": "handon",
+  "version": "1.0.0",
+  "maintainers": [
+    {
+      "name": "xiaofei bao",
+      "email": "xfbao1986@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "aws-sdk": "2.2.48",
+    "path": "0.12.7",
+    "stream": "0.0.2",
+    "byline": "4.2.1"
+  },
+  "repository": "",
+  "license": ""
+}
