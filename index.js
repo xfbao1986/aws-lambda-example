@@ -7,7 +7,7 @@ let s3 = new aws.S3({ apiVersion: '2006-03-01' });
 var url        = require("url");
 var http       = require('http');
 var https      = require('https');
-var webhookUrl = url.parse("https://hooks.slack.com/services/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");
+var webhookUrl = url.parse("");
 
 var webhookOptions = {
   hostname: webhookUrl.hostname,
